@@ -61,3 +61,10 @@ layout: default
 　　**流量与充值：**
 *   套餐内流量用完不会立刻断网，但会降速到“龟速”（通常128kbps或更低），刷个文字都费劲。**及时充值或购买流量加油包是王道。** 运营商的App（Ooredoo Qatar / My Vodafone Qatar）是管理套餐、充值、查余额的神器，务必下载注册。
 *   充值渠道：运营商App/官网、专卖
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Qatar eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/qatar-data-plans)
